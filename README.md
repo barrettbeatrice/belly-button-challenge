@@ -2,7 +2,7 @@
 
 Tools Used:
 D3.js for data manipulation and binding to DOM elements.
-Plotly.js for creating interactive visualizations (bar chart, bubble chart, and gauge chart).
+Plotly.js for creating interactive visualizations (bar chart, bubble chart, demographics).
 Bootstrap for responsive design.
 
 Visualizations:
@@ -17,3 +17,6 @@ Marker size: sample_values
 Text values: otu_labels
 Demographic Information Panel: Shows the selected individual's demographic information as key-value pairs.
 Gauge Chart: Plots the weekly washing frequency of the individual.
+
+References
+Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/Links to an external site.
